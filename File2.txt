@@ -3,3 +3,6 @@ Hello Dear,
 Could not understand the process in first attemp
 Trying to learn in second attemp
 This is the new file which i created
+Going to commit in a different branch
+
+Ready to merge
