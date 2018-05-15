@@ -3,3 +3,5 @@ Welcome to git hum.
 
 1. first day of learning github
 2. Edited to check the new version
+
+writing someting which i am going to take care in a different branch as this is not confirmed wether this is doing ass part of this feature.
