@@ -1,0 +1,4 @@
+
+Welcome to git hum.
+
+1. first day of learning github
